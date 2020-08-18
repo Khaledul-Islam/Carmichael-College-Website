@@ -1,0 +1,112 @@
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.deps.json
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.runtimeconfig.json
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.runtimeconfig.dev.json
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.dll
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.pdb
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.Views.dll
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.Views.pdb
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csprojAssemblyReference.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csproj.CoreCompileInputs.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorAssemblyInfo.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorAssemblyInfo.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.AssemblyInfoInputs.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.AssemblyInfo.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.TagHelpers.input.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.TagHelpers.output.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorCoreGenerate.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorTargetAssemblyInfo.cache
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorTargetAssemblyInfo.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.Views.pdb
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.dll
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.pdb
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csproj.CopyComplete
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SH.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Notice.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administration.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+C:\Users\khale\Desktop\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Department.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.deps.json
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.runtimeconfig.json
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.runtimeconfig.dev.json
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.dll
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.pdb
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.Views.dll
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.Views.pdb
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csprojAssemblyReference.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csproj.CoreCompileInputs.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorAssemblyInfo.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorAssemblyInfo.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.AssemblyInfoInputs.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.AssemblyInfo.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.TagHelpers.input.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.TagHelpers.output.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorCoreGenerate.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administration.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Department.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Notice.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SH.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorTargetAssemblyInfo.cache
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorTargetAssemblyInfo.cs
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.Views.pdb
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.dll
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.pdb
+D:\New folder (2)\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csproj.CopyComplete
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.deps.json
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.runtimeconfig.json
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.runtimeconfig.dev.json
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.dll
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.pdb
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.Views.dll
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\bin\Debug\netcoreapp2.1\Carmichael College.Views.pdb
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csprojAssemblyReference.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.AssemblyInfoInputs.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.AssemblyInfo.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csproj.CoreCompileInputs.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorAssemblyInfo.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorAssemblyInfo.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.TagHelpers.input.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.TagHelpers.output.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorCoreGenerate.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Administration.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Department.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Notice.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Home\Result.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SH.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorTargetAssemblyInfo.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.RazorTargetAssemblyInfo.cs
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.Views.pdb
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.dll
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.pdb
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.genruntimeconfig.cache
+F:\Class\Semester 6\Visual Final\Carmichael College\Carmichael College\Carmichael College\obj\Debug\netcoreapp2.1\Carmichael College.csproj.CopyComplete

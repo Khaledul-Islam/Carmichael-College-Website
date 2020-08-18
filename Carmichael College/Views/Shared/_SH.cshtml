@@ -1,0 +1,87 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="headim">
+            <a href="#"><img src="~/images/logo.png" alt=""></a>
+        </div>
+
+        <div class="headtit">
+            <h3> Carmichael College Rangpur </h3>
+            <h4>Since 1916</h4>
+        </div>
+        <div class="header">
+            <img src="~/images/cm.jpg" alt="">
+        </div>
+    </div>
+
+
+    <div class="bottom-header">
+        <marquee behavior="" direction="">
+            কারমাইকেল কলেজ ওয়েবসাইটে আপনাকে স্বাগতম। ***  "জ্ঞানই শক্তি";*** "এসো জ্ঞানের সন্ধানে, ফিরে যাও দেশের সেবায়"*** &nbsp;&nbsp;&nbsp;&nbsp;
+        </marquee>
+    </div>
+
+    <div class="nav">
+        <ul>
+            <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Administration">Administration</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Academic">Academic</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Department">Department</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Faculty">Faculty</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Notice">Notice</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Result">Result</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
+            <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact Us</a></li>
+
+        </ul>
+    </div>
+
+    @RenderBody()
+    <footer>
+        <div class="mainfooter">
+            <div class="foot">
+                <ul type="none">
+                    <li>
+                        <a href="#">National University</a>
+                        <a href="#">Dinajpur Board</a>
+                        <a href="#">BANBEIS</a>
+                        <a href="#">Directorate of Secondary and Higher Education</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="ftr">
+                <ul type="none">
+                    <li>
+                        <a href="#">শিক্ষক বাতায়ন</a>
+                        <a href="#">সংস্কৃতি বিষয়ক মন্ত্রণালয়</a>
+                        <a href="#">Ministry Of Education</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="fotr">
+                <ul type="none">
+                    <li>
+                        <a href="#">Career Opportunity</a>
+                        <a href="#">Ministry Of Education</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="footer">
+                <h3>Follow Us</h3>
+                <ul>
+                    <a href="#"><img src="~/images/Skype.png" alt=""></a>
+                    <a href="#"><img src="~/images/Twitter.png" alt=""></a>
+                    <a href="#"><img src="~/images/Google.png" alt=""></a>
+                    <a href="#"><img src="~/images/Facebook.png" alt=""></a>
+                </ul>
+            </div>
+        </div>
+        <center><a href="#">Developed by SHUVO</a></center>
+    </footer>
+</body>
+</html>
